@@ -2,7 +2,7 @@
 >realizado pela [DIO](https://web.dio.me/track/santander-bootcamp-ciberseguranca?tab=about)
 >em parceria com o Santander Universidades.
 
-# Simulação a dinâmica de um ataque Ransoware utilizando Python
+# Simulação da dinâmica de um ataque Ransoware utilizando Python
 
 ### Arquivos utlizadoss no labratório
 
